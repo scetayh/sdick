@@ -61,5 +61,9 @@ type:
   {% image 003.jpeg download:true width: padding: bg: fancybox: %}
 
   {% image 004.jpeg download:true width: padding: bg: fancybox: %}
-  
+
+  {% image 005.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 006.jpeg download:true width: padding: bg: fancybox: %}
+
 {% endfolding %}
