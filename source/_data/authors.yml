@@ -366,6 +366,12 @@ a020a:
   banner: ''
   description: ''
 
+a021b:
+  name: 'YZX'
+  avatar: ''
+  banner: ''
+  description: ''
+
 a021a:
   name: '朱笔认'
   avatar: ''
@@ -464,6 +470,12 @@ a029a:
 
 a030a:
   name: '？'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a031a:
+  name: '亡菌'
   avatar: ''
   banner: ''
   description: ''
