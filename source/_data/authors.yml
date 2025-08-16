@@ -108,6 +108,54 @@ a007b:
   banner: ''
   description: ''
 
+a007c:
+  name: 'Ttocserp Airaya | T.A.'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007d:
+  name: '西南角'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007e:
+  name: '神牛鬼马'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007f:
+  name: '迪耿斯 | Dickens'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007g:
+  name: '无机苯'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007h:
+  name: '硫锌伛'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007i:
+  name: '鎏冻寄化'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007j:
+  name: '［北怂］瓯羊羞'
+  avatar: ''
+  banner: ''
+  description: ''
+
 a008a:
   name: '大灰'
   avatar: ''
@@ -350,6 +398,12 @@ a025a:
 
 a025b:
   name: '不服气（耳朵）'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a026a:
+  name: 'Clock'
   avatar: ''
   banner: ''
   description: ''
