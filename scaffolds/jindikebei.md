@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 tags: []
-categories: [“金迪克杯”参赛作品集,第1届：毕斯特杯]
+categories: [“金迪克杯”参赛作品集]
 description: 
 
 cover: 
@@ -42,9 +42,6 @@ h1:
 type: 
 ---
 
-{% folding 该作品属于 **“金迪克杯”参赛作品集/第1届：毕斯特杯** open:false color:blue %}
-
-  {% image /static/images/head-jindikebei-1.jpeg download:true width: padding: bg: fancybox: %}
-  
+{% folding 该作品属于 **“金迪克杯”参赛作品集** open:false color:blue %}
 {% endfolding %}
 

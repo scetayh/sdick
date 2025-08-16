@@ -44,7 +44,7 @@ type:
 
 {% folding 该作品属于 **“金迪克杯”参赛作品集/第2届：秩章杯** open:false color:blue %}
 
-  {% image /static/images/head-jindikebei-002.jpeg download:true width: padding: bg: fancybox: %}
+  {% image /static/images/head-jindikebei-2.jpeg download:true width: padding: bg: fancybox: %}
   
 {% endfolding %}
 

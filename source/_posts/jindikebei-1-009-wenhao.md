@@ -1,6 +1,6 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: ？
+date: 2024-12-12 00:00:00
 tags: []
 categories: [“金迪克杯”参赛作品集,第1届：毕斯特杯]
 description: 
@@ -26,7 +26,7 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: 
+author: a030a
 references:
 # 设置 false 禁止评论
 comments: 

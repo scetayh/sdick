@@ -1,6 +1,6 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: 桌下鬼纸
+date: 2024-12-12 00:00:00
 tags: []
 categories: [“金迪克杯”参赛作品集,第1届：毕斯特杯]
 description: 
@@ -26,7 +26,7 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: 
+author: a002a
 references:
 # 设置 false 禁止评论
 comments: 
@@ -47,4 +47,8 @@ type:
   {% image /static/images/head-jindikebei-1.jpeg download:true width: padding: bg: fancybox: %}
   
 {% endfolding %}
+
+{% image 001.jpeg download:true width: padding: bg: fancybox: %}
+
+{% image 002.jpeg download:true width: padding: bg: fancybox: %}
 
