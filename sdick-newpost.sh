@@ -57,7 +57,7 @@ declare POST_NAME="$2"
 	echo "$0: error: \`$SCAFFOLD' is not an valid scaffold" && \
 	exit 4
 
-[[ ! "$POST_NAME" =~ ^[a-z][a-z0-9\-]*$ ]] && \
+[[ ! "$POST_NAME" =~ [a-z0-9\-]*$ ]] && \
 	echo "$0: error: \`$POST_NAME' is not an valid post name" && \
 	exit 5
 
