@@ -26,8 +26,8 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: 
-references: b003a
+author: b003a
+references: 
 # 设置 false 禁止评论
 comments: 
 # 设置 false 避免被搜索

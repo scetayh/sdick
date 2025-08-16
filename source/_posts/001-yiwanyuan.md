@@ -26,7 +26,7 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author:
+author: a016a
 references:
 # 设置 false 禁止评论
 comments: 
