@@ -1,6 +1,6 @@
 ---
 title: {{ title }}
-date: {{ date }}
+date: 2025-01-31 00:00:00
 tags: []
 categories: [“金迪克杯”参赛作品集,第2届：秩章杯]
 description: 
