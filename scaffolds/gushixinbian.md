@@ -45,6 +45,3 @@ h1:
 type: 
 ---
 
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}
-
-{% image 002.jpeg download:true width: padding: bg: fancybox: %}

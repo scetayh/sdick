@@ -51,6 +51,9 @@ type:
 {% endfolding %}
 
 {% folding 迪克技窝警告：如要继续阅读，请单击以打开此折叠块。 open:false color:yellow %}
-{% quot 狗即我随地大小便被主人妈妈勒令驱除 %}
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% quot 狗即我随地大小便被主人妈妈勒令驱除 %}
+
+  {% image 001.jpeg download:true width: padding: bg: fancybox: %}
+  
 {% endfolding %}

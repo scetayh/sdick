@@ -51,9 +51,15 @@ type:
 {% endfolding %}
 
 {% folding 迪克技窝警告：如要继续阅读，请单击以打开此折叠块。 open:false color:yellow %}
-{% quot 摄影展（超级玛丽厕所大战偷拍狂艾玛并统治国家以及艾玛的基因复仇） %}
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}
-{% image 002.jpeg download:true width: padding: bg: fancybox: %}
-{% image 003.jpeg download:true width: padding: bg: fancybox: %}
-{% image 004.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% quot 摄影展（超级玛丽厕所大战偷拍狂艾玛并统治国家以及艾玛的基因复仇） %}
+
+  {% image 001.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 002.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 003.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 004.jpeg download:true width: padding: bg: fancybox: %}
+  
 {% endfolding %}

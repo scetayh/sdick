@@ -44,4 +44,3 @@ type:
 
 <!-- for i in 001-lusainiyaren 002-shengyiren 003-mingrixiangzhou 004-kafei 005-buyizhicai 006-xiguan 007-zanghui 008-shidai 009-huahuashijie 010-laobashang 011-laobaxia 012-laosishang 013-laosixia 014-daerwenyuyang 015-daerwenyuji 016-bimuyuyuyiliqi 017-ziyongshi 018-aichuangpeifu ; do ./new.sh weixuan weixuan-$i ; done -->
 
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}

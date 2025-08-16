@@ -51,8 +51,13 @@ type:
 {% endfolding %}
 
 {% folding 迪克技窝警告：如要继续阅读，请单击以打开此折叠块。 open:false color:yellow %}
-{% quot 艾米丽和弗兰克：滑板轮子坏了 %}
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}
-{% image 002.jpeg download:true width: padding: bg: fancybox: %}
-{% image 003.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% quot 艾米丽和弗兰克：滑板轮子坏了 %}
+
+  {% image 001.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 002.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 003.jpeg download:true width: padding: bg: fancybox: %}
+  
 {% endfolding %}

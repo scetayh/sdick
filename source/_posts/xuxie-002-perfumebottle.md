@@ -51,9 +51,15 @@ type:
 {% endfolding %}
 
 {% folding 迪克技窝警告：如要继续阅读，请单击以打开此折叠块。 open:false color:yellow %}
-{% quot 逃离暴雪将妈妈送的香水瓶落在学校 %}
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}
-{% image 002.jpeg download:true width: padding: bg: fancybox: %}
-{% image 003.jpeg download:true width: padding: bg: fancybox: %}
-{% image 004.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% quot 逃离暴雪将妈妈送的香水瓶落在学校 %}
+
+  {% image 001.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 002.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 003.jpeg download:true width: padding: bg: fancybox: %}
+
+  {% image 004.jpeg download:true width: padding: bg: fancybox: %}
+
 {% endfolding %}
