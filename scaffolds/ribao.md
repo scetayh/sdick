@@ -1,5 +1,5 @@
 ---
-title: {{ title }}
+title: 【日报】
 date: {{ date }}
 tags: []
 categories: [迪克日报（Dick Fuck Boom!）]
