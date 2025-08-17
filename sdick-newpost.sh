@@ -9,7 +9,7 @@
 # functions
 
 function print_usage () {
-	echo "sdick-newpost.sh 20250816"
+	echo "$0 20250816"
 	echo "(C) 2025 Tarikko-ScetayhChan."
 	echo "Released under the GNU GPLv3."
 	echo
