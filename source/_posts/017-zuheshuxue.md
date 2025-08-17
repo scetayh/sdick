@@ -39,7 +39,7 @@ rightbar:
 # 设置为 '' 隐藏标题
 h1: ''
 # tech/story
-type: 
+type: tech
 ---
 
 # 组合数学进阶初步——以防你觉得自己会组合数学

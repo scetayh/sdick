@@ -35,7 +35,7 @@ structured_data:
 logo:
   avatar: '[/static/images/logo.png](/)' # you can set avatar link in _config.yml or '[https://xxx.png](/about/)'
   title: '[{config.title}](/)' # you can set html tag like: '[<img no-lazy height="32px" src="xxx"/>](/)'
-  subtitle: '{config.subtitle}' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
+  subtitle: '{config.subtitle}|“迪克系列”托管站点' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
 
 # 侧边栏主功能导航菜单
 menubar:
@@ -179,11 +179,11 @@ notebook:
 ######## Article ########
 article:
   # 文章类型，决定布局风格，可以在 front-matter/topic/wiki 中覆盖此参数
-  type: tech # tech: 默认技术类文章, story: 图文类文章，文字和段落间增距大
+  type: story # tech: 默认技术类文章, story: 图文类文章，文字和段落间增距大
   # 缩进两个文字宽度，适合文字类博客，可以在 front-matter/topic/wiki 中覆盖此参数
-  indent: # true / false
+  indent: true # true / false
   # 封面图宽高比
-  cover_ratio: 2
+  cover_ratio: 2.5
   # 文章内横幅宽高比
   banner_ratio: 2.5
   # 如果没有指定横幅，是否根据 tags 作为关键词搜索横幅图片？
@@ -368,17 +368,44 @@ footer:
     #     - '[xxx](/)'
     #     - '[xxx](/)'
     #     - '[xxx](/)'
+    - title: 内容
+      items:
+        - '[近期发布](/)'
+        - '[分类](/categories/)'
+        # - '[标签](/tags/)'
+        - '[归档](/archives/)'
+        # - ‘[作者署名列表](/authors/)’
+        - '[留言板](/liuyanban/)'
+        - '[音乐盒](/yinyuehe/)'
+    - title: 平台
+      items:
+        - '[主站点（静态）](https://sdick.tarikkochan.top)'
+        - '[备用站点（动态）](https://sdickd.tarikkochan.top)'
+        - '[旧版平台](https://sdick-old.tarikkochan.top)'
+        - '[迪克周报托管网站](https://dickzhouboom.tarikkochan.top)'
+    - title: GitHub 仓库
+      items:
+        - '[Pages 托管](https://github.com/scetayh/sdick.tarikkochan.github.io)'
+        - '[源码树](https://github.com/scetayh/sdick)'
+        - '[giscus](https://github.com/scetayh/sdick-giscus)'
+        - '[Gitee 发行版](https://gitee.com/scetayh/stick/releases)'
+        - '[伪镜像站](https://github.com/scetayh/mirrors.sdick.tarikkochan.github.io)'
+        - '[旧版平台 Pages 托管](https://github.com/scetayh/sdick-old.tarikkochan.github.io)'
+        - '[旧版平台源码树](https://github.com/scetayh/sdick-old)'
+        - '[迪克周报托管](https://github.com/scetayh/dickzhouboom.tarikkochan.github.io)'
+        - '[SPT](https://github.com/scetayh/spt)'
+    - title: 社交
+      items:
+        - '[运维的部落阁](https://blog.tarikkochan.top)'
+    - title: '更多':
+      items:
+        # - '[关于](/about)'
   content: | # 支持 Markdown 格式
-    [Dick Series](/)
-    © 2024 - 2025 by [Dick Series Contributors](/author/b001)
-    licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified
-    和我签订契约，成为~~大迪克~~答题卡吧！
-    #
-    [Sdick Platform (gamma)](/)
-    2024 - 2025 by [Dick Chicken’s Home](/author/b004)
-    base on [Hexo](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree})
-    hosted by [GitHub Pages](https://github.io)
-    隐藏着黑暗力量的迪克啊，在我面前显示你真正的力量！现在以你的主人Dick Chicken's Home之名命令你——封印解除！
+    Dick Series © 2024 - 2025 by [Dick Series Contributors](/author/b001a) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified
+    > 和我签订契约，成为~~大迪克~~答题卡吧！
+    Sdick Platform (gamma) 2024 - 2025 by [Dick Chicken’s Home](/author/b004a)
+    based on [Hexo](https://hexo.io) & [{theme.name} {theme.version}]({theme.tree})
+    > 隐藏着黑暗力量的迪克啊，在我面前显示你真正的力量！现在以你的主人Dick Chicken's Home之名命令你——封印解除！
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
 
 
