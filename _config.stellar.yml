@@ -397,9 +397,9 @@ footer:
     - title: 社交
       items:
         - '[运维的部落阁](https://blog.tarikkochan.top)'
-    - title: '更多':
-      items:
-        # - '[关于](/about)'
+    # - title: 更多
+    #   items:
+    #     - '[关于](/about)'
   content: | # 支持 Markdown 格式
     Dick Series © 2024 - 2025 by [Dick Series Contributors](/author/b001a) licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) unless otherwise specified
     > 和我签订契约，成为~~大迪克~~答题卡吧！
