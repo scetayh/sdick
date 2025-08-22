@@ -12,6 +12,12 @@ a001a:
   banner: ''
   description: ''
 
+a001b:
+  name: '2,4,6-三硝基甲苯'
+  avatar: ''
+  banner: ''
+  description: ''
+
 a002a:
   name: '獐菌'
   avatar: ''
@@ -151,7 +157,19 @@ a007i:
   description: ''
 
 a007j:
-  name: '［北怂］瓯羊羞'
+  name: '［北怂］瓯羊羞 | ［西汉］私马牵'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007k:
+  name: 'unknown dick'
+  avatar: ''
+  banner: ''
+  description: ''
+
+a007l:
+  name: '硫[磺]皂'
   avatar: ''
   banner: ''
   description: ''
