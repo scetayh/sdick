@@ -42,7 +42,6 @@ h1:
 type: 
 ---
 
-{% note color:error '内容未上传' 该文章的纸质原稿未扫描上传。 %}
+{% image 001.jpeg download:true width: padding: bg: fancybox: %}
 
-<!-- {% image 001.jpeg download:true width: padding: bg: fancybox: %} -->
-
+{% image 002.jpeg download:true width: padding: bg: fancybox: %}
