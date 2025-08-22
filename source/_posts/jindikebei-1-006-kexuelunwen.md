@@ -48,7 +48,7 @@ type:
 
 {% folding 该作品属于 **“金迪克杯”参赛作品集/第1届：毕斯特杯** open:false color:blue %}
 
-  {% image /static/images/head-jindikebei-1.jpeg download:true width: padding: bg: fancybox: %}
+  {% image /assets/images/head-jindikebei-1.jpeg download:true width: padding: bg: fancybox: %}
   
 {% endfolding %}
 

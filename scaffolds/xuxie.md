@@ -48,7 +48,7 @@ type:
 
 {% folding 该作品属于 **读后续写（Rewriting）** open:false color:blue %}
 
-  {% image /static/images/head-xuxie.jpeg download:true width: padding: bg: fancybox: %}
+  {% image /assets/images/head-xuxie.jpeg download:true width: padding: bg: fancybox: %}
   
 {% endfolding %}
 

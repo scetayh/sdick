@@ -47,7 +47,7 @@ type:
 美国联邦调查局警告：少儿不宜。未成年与女性请三思而后行。请秘密看，或别带词典。 %}
 
 {% folding 该作品属于 **读后续写（Rewriting）** open:false color:blue %}
-{% image /static/images/head-xuxie.jpeg download:true width: padding: bg: fancybox: %}
+{% image /assets/images/head-xuxie.jpeg download:true width: padding: bg: fancybox: %}
 {% endfolding %}
 
 {% folding 迪克技窝警告：如要继续阅读，请单击以打开此折叠块。 open:false color:yellow %}
