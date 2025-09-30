@@ -1,6 +1,6 @@
 ---
 title: 史记·张副主任世家
-date: 2024-11-12 00:00:00
+date: 2025-09-27 00:09:00
 tags: []
 categories: [野史]
 description: 
@@ -45,7 +45,7 @@ type:
 ---
 
 {% blockquote %}
-《张副主任世家》写得章惠如龙，流淘如虎，是Ho.O.Biscuits极得意文字。
+《张副主任世家》写得章惠如龙，流淘如虎，是好脆极得意文字。
 ——流汐
 {% endblockquote %}
 
