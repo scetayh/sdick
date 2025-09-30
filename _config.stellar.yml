@@ -21,6 +21,7 @@ canonical:
     - localhost
     - 127.0.0.1
     - sdickd.tarikkochan.top
+    - sdick.ayaria.top
 
 open_graph:
   enable: true

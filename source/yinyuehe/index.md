@@ -3,12 +3,24 @@ title: 音乐盒
 date: 2025-04-13 10:10:59
 ---
 
-{% audio type:2 netease:28921675 %}
+{% note Dick&nbsp;Chicken's&nbsp;Home&nbsp;staff's&nbsp;character-driven&nbsp;anthems color:purple %}
 
-{% audio type:2 netease:486785699 %}
+Song Shi-ken:
 
-{% audio type:2 netease:22636646 %}
+{% audio type:2 netease:561307037 %}
 
-{% audio type:2 netease:1365036245 %}
+Chin Chi-ken:
 
-{% audio type:2 netease:1306507269 %}
+{% audio type:2 netease:22636634 %}
+
+Shuku Shi-tei:
+
+{% audio type:2 netease:22636725 %}
+
+Ryū Shi-ō:
+
+{% audio type:2 netease:22636643 %}
+
+<!-- {% note Other&nbsp;Touhou&nbsp;Project&nbsp;songs color:cyan %}
+
+{% audio type:2 netease: %} -->

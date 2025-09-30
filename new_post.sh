@@ -1,11 +1,6 @@
 #!/bin/bash
 # SPDX-License-Identifier: GPL-3.0-only
 
-# debug
-
-# do not uncomment unless necessary
-#set -x
-
 # functions
 
 function print_usage () {

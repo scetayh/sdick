@@ -1,8 +1,8 @@
 ---
-title: 第一届“金斐济杯”国际奥林迪克竞赛阿米诺斯赛区初赛试题
-date: 2025-08-03 00:00:00
+title: 史记·张副主任世家
+date: 2024-11-12 00:00:00
 tags: []
-categories: []
+categories: [野史]
 description: 
 
 cover: 
@@ -26,7 +26,9 @@ mathjax:
 
 # 专栏 ID
 topic: 
-author: b007a
+author: a011b
+# author: a013l
+# author: a007a
 references:
 # 设置 false 禁止评论
 comments: 
@@ -42,10 +44,9 @@ h1:
 type: 
 ---
 
-{% image 001.jpeg download:true width: padding: bg: fancybox: %}
+{% blockquote %}
+《张副主任世家》写得章惠如龙，流淘如虎，是Ho.O.Biscuits极得意文字。
+——流汐
+{% endblockquote %}
 
-{% image 002.jpeg download:true width: padding: bg: fancybox: %}
-
-{% image 003.jpeg download:true width: padding: bg: fancybox: %}
-
-{% image 004.jpeg download:true width: padding: bg: fancybox: %}
+{% note color:error '内容未上传' 该文章的纸质原稿未编辑为电子稿。 %}
