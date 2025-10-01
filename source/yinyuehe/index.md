@@ -5,7 +5,7 @@ date: 2025-04-13 10:10:59
 
 {% note Dick&nbsp;Chicken's&nbsp;Home&nbsp;staff's&nbsp;character-driven&nbsp;anthems color:purple %}
 
-Song Shi-ken:
+Son Shi-ken:
 
 {% audio type:2 netease:561307037 %}
 
