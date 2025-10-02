@@ -20,7 +20,6 @@ canonical:
   officialHosts: # 官方主机列表，每行一个，例如 xaoxuu.vercel.app
     - localhost
     - 127.0.0.1
-    - sdickd.tarikkochan.top
     - sdick.ayaria.top
 
 open_graph:
@@ -380,8 +379,7 @@ footer:
         - '[音乐盒](/yinyuehe/)'
     - title: 平台
       items:
-        - '[主站点（静态）](https://sdick.tarikkochan.top)'
-        - '[备用站点（动态）](https://sdickd.tarikkochan.top)'
+        - '[斯迪克平台·公测](https://sdick.tarikkochan.top)'
         - '[旧版平台](https://sdick-old.tarikkochan.top)'
         - '[迪克周报托管网站](https://dickzhouboom.tarikkochan.top)'
     - title: GitHub 仓库
@@ -397,8 +395,9 @@ footer:
         - '[SPT](https://github.com/scetayh/spt)'
     - title: 社交
       items:
-        - '[运维的部落阁](https://blog.tarikkochan.top)'
-        - '[幻想界域巡録](https://index.tarikkochan.top)'
+        - '[幻想界域巡録](https://tarikkochan.top)'
+        - '[絵空初咲](https://blog-old.tarikkochan.top)'
+        - '[艾雅莉娅·普瑞斯柯特](https://ayaria.top)'
     # - title: 更多
     #   items:
     #     - '[关于](/about)'
