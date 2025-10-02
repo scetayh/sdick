@@ -3,16 +3,16 @@ title: 张副主任世家
 date: 2025-09-27 00:09:00
 tags: []
 categories:
-description: 
+description: 不是为了所谓纪念，而是为了记住……我是要记到多年以后复仇回去的那一刻的。（好脆）
 
 cover: 
 banner:
 # 海报（全图封面卡片，可选）
 poster:
   # 标题上方的小字
-  topic:
+  topic: 
   # 大标题（必选）
-  headline:
+  headline: 
   # 标题下方的小字
   caption:
   # 标题颜色
@@ -41,7 +41,7 @@ rightbar:
 # 设置为 '' 隐藏标题
 h1: 
 # tech/story
-type: tech
+type: 
 ---
 
 {% blockquote %}
@@ -50,7 +50,7 @@ type: tech
 {% endblockquote %}
 
 {% blockquote %}
-一字一泪，是用血泪写出了心坎里的哀痛，表达了好脆至情的文字
+一字一泪，是用血泪写出了心坎里的哀痛，表达了好脆至情的文字。
 ——硫皂
 {% endblockquote %}
 
@@ -194,4 +194,4 @@ type: tech
 
 ---
 
-{% button 下载原稿（原名：张副主任世家.docx）” 001.docx color:blue %}
+{% button 下载原稿（原名：张副主任世家.docx） 001.docx color:blue %}
